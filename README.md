@@ -53,3 +53,23 @@ J Loop // Branch to Loop unconditionally
 - Miscellaneous Instructioon  
 
 HLT // Halt execution
+
+## ▫ Instruction Encoding  
+![Image](https://github.com/user-attachments/assets/81169b27-4b26-46b7-a27f-cea0f6fec39d)
+- shamt : shift amount, funct : opcode extension for additional functions.
+- Some instructions require two register operands rs & rt as input, while some require only rs. 
+- This requirement is only identified only after the instruction is decoded. 
+- While decoding is going on, we can prefetch the registers in parallel, which may or may not be used later. 
+- Similarly, the 16-bit and 26-bit immediate data are retrieved and signextended to 32-bits in case they are required later.  
+## ▫ Stages of Execution  
+The instruction execution cycle contains the following 5 stages in order:  
+1. IF : Instruction Fetch  
+2. ID : Instruction Decode / Register Fetch  
+3. EX : Execution / Effective Address Calculation  
+4. MEM : Memory Access / Branch Completion  
+5. WB : Register Write-back  
+- micro operations not shown here.
+## ▫ Non Pipelined DataPath  
+![Image](https://github.com/user-attachments/assets/a74391d5-8507-4545-81d9-5648c233551a)
+## ▫ Pipelined DataPath  
+![Image](https://github.com/user-attachments/assets/a596699a-bc40-4eb9-a33f-a7afda301f71)
