@@ -77,7 +77,7 @@ The instruction execution cycle contains the following 5 stages in order:
 ![Image](https://github.com/user-attachments/assets/7f72c355-3911-4170-96e3-b4d22a3eb1aa)
 ![Image](https://github.com/user-attachments/assets/985b41a2-60c7-4863-a761-eeacd99ba3fe)
 
-## ▫ Simulation result obtained for test-bench 1
+## ▫ Simulation result obtained for test-bench 2
 ![Image](https://github.com/user-attachments/assets/02484627-d6ef-484e-aeeb-b3bdf2d285a2)
 ![Image](https://github.com/user-attachments/assets/a91333fa-f6fa-430c-933b-f65532bb7d30)
 ![Image](https://github.com/user-attachments/assets/70dcee8f-cf32-460e-82cd-039f6426b4e5)
