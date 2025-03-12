@@ -73,10 +73,11 @@ The instruction execution cycle contains the following 5 stages in order:
 ![Image](https://github.com/user-attachments/assets/a74391d5-8507-4545-81d9-5648c233551a)
 ## ▫ Pipelined DataPath  
 ![Image](https://github.com/user-attachments/assets/a596699a-bc40-4eb9-a33f-a7afda301f71)
-## Simulation result obtained for test-bench 1
-![Image](https://github.com/user-attachments/assets/b2a00f87-b049-4f0c-8f24-1d374b1b60c9)
-![Image](https://github.com/user-attachments/assets/e1638683-44dd-4b54-98de-227f16a529df)
-## Simulation result obtained for test-bench 1
-![Image](https://github.com/user-attachments/assets/eddb1681-4c5c-415c-9277-83dd6384043a)
-![Image](https://github.com/user-attachments/assets/12ac284f-9e37-48e8-b320-db416d05f533)
-![Image](https://github.com/user-attachments/assets/8b87da63-96f6-45f8-81a5-096f4864c1f8)
+## ▫ Simulation result obtained for test-bench 1
+![Image](https://github.com/user-attachments/assets/7f72c355-3911-4170-96e3-b4d22a3eb1aa)
+![Image](https://github.com/user-attachments/assets/985b41a2-60c7-4863-a761-eeacd99ba3fe)
+
+## ▫ Simulation result obtained for test-bench 1
+![Image](https://github.com/user-attachments/assets/02484627-d6ef-484e-aeeb-b3bdf2d285a2)
+![Image](https://github.com/user-attachments/assets/a91333fa-f6fa-430c-933b-f65532bb7d30)
+![Image](https://github.com/user-attachments/assets/70dcee8f-cf32-460e-82cd-039f6426b4e5)
