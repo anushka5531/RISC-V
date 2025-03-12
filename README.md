@@ -73,7 +73,6 @@ The instruction execution cycle contains the following 5 stages in order:
 ![Image](https://github.com/user-attachments/assets/a74391d5-8507-4545-81d9-5648c233551a)
 ## ▫ Pipelined DataPath  
 ![Image](https://github.com/user-attachments/assets/a596699a-bc40-4eb9-a33f-a7afda301f71)
-![Image](https://github.com/user-attachments/assets/e1638683-44dd-4b54-98de-227f16a529df)
 ## Simulation result obtained for test-bench 1
 ![Image](https://github.com/user-attachments/assets/b2a00f87-b049-4f0c-8f24-1d374b1b60c9)
 ![Image](https://github.com/user-attachments/assets/e1638683-44dd-4b54-98de-227f16a529df)
